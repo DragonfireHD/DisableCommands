@@ -1,10 +1,18 @@
+#Deutsch/ Trage in der lücke von " " denn gewünschten Command ein um diesen Command deaktivieren zu können
+#English/ Enter the desired command in the space of "" in order to be able to deactivate this command 
+
+#Command hier rein schreiben
 cmd:
   - "kill"
   - "status"
 
 
+#Deutsch /fals fragen auftauchen schreibt denn Author von diesen Plugin an!
 
-# Be sure to follow the pattern of the config or else you will get errors!
-# My GitHub for more amazing plugins/creations like these!: MXGLatoya
-# Discord Server: https://discord.gg/Gfm4ZZE
-# Plugin Developed by MXGLatoya
+#Viel Spaß 
+
+
+#English/ if ask come up because the author of this plugin writes to! 
+
+#Have fun 
+
