@@ -17,6 +17,7 @@ class Main extends PluginBase {
             $cmd = $cmp->getCommand($cmdlist);
 if($cmd === null) continue;
 $cmp->unregister($cmd);
+
         }
     }
 }
