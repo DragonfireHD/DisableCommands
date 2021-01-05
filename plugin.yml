@@ -1,10 +1,6 @@
 name: DisableCommands
-main: MXGLatoya\DisableCommands\Main
+main: DragonfireHD98\DisableCommands\Main
 api: 3.0.0
-mcpe-protocol:
-  - 389
-  - 390
-  - 407
-  - 408
 version: 1.0.1
-author: MXGLatoya
+author: DragonfireHD98 (with help)
+
